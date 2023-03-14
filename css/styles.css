@@ -539,6 +539,11 @@
     margin-left: auto;
 }
 
+.animals_dentistry .action_block .image img.tablet_img
+{
+    display: none;
+}
+
 
 .animals_dentistry .action_block .image2
 {
